@@ -13,7 +13,7 @@ using a multimodal LLM (Gemma 3).
 
 project/
 │
-├── scene_graph_pipeline.py      # Main script
+├── scn_vision.py      # Main script
 ├── input/
 │   └── cleaned_vg.jsonl        # Input data
 ├── imagery/
@@ -46,7 +46,7 @@ OUTPUT_FILE = "output/scene_graphs.jsonl"
 
 Run:
 
-python scene_graph_pipeline.py
+python scn_vision.py
 
 ---
 
