@@ -75,19 +75,4 @@ python scn_vision.py
 
 
 
-## 📈 Output Statistics
 
-After completion, the script prints:
-```
-================================================================================
-Processing complete!
-Total triplets: 12345
-Valid: 10567
-Skipped: 1778
-Output: scene_graphs_gemma3_1.jsonl
-================================================================================
-
-Final output: 5432 images, 250.45 MB
-```
-
----
